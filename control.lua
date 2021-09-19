@@ -12,4 +12,4 @@ local function remove_blueprints (event)
 	end
 end
 
-script.on_event(defines.events.on_player_trash_inventory_changed,  function(event) remove_blueprints(event) end)
+script.on_event(defines.events.on_player_trash_inventory_changed, function(event) remove_blueprints(event) end)
