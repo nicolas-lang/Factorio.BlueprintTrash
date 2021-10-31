@@ -1,3 +1,7 @@
+Version: 0.0.3
+  Changes:
+    - Each trashed blueprint is now exported to the console (factorio_current.log)
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
   Compatibility:
     - Changed mod-deployment to github pipeline
