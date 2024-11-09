@@ -1,13 +1,13 @@
 {
 	"name": "nco-BlueprintTrash",
-	"version": "0.0.3",
+	"version": "2.0.0",
 	"title": "Blueprint Trash",
 	"author": "Karoschl",
 	"contact": "",
 	"homepage": "https://github.com/nicolas-lang/Factorio.BlueprintTrash",
 	"description": "If you send a blueprint to your logistic trash, it is destroyed instead",
-	"factorio_version": "1.1",
+	"factorio_version": "2.0",
 	"dependencies": [
-		"base >= 1.0"
+		"base"
 	]
 }
